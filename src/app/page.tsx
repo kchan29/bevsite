@@ -17,7 +17,7 @@ we've shared so so many fun memories together. there's too many to put into word
   },
   {
     name: "Kyle",
-    content: `Hiya, this is Kyle. Ur old now. Thanks for always being there when I have needed you, especially when I haven't been the easiest person to deal with. I look forward to us continuing our years of comradery that will likely last for our lives, whether we like it or not. I firmly believe that your efforts will allow you to accomplish great things in life. May you live long and prosper, and I hope that you will continue taking in the sheets. Guy, Kyle`,
+    content: `Hiya, this is Kyle. Ur old now. Thanks for always being there when I have needed you, especially when I haven't been the easiest person to deal with. I look forward to us continuing our years of comradery that will likely last for our lives, whether we like it or not. I firmly believe that your efforts will allow you to accomplish great things in life. May you live long and prosper, and I hope that you will continue taking in the sheets. Guy, Kyle \n \n \n \n \n \n`,
     image: "/images/Kyle.JPG"
   },
   {
@@ -44,7 +44,7 @@ i love you!!!! give circe a treat for me (or don't if she's getting too pear sha
   },
   {
     name: "Kevin",
-    content: `Hi lmao, I am the bevster , yap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhh yap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhh`,
+    content: "Hi lmao, I am the bevster , yap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhh yap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhhyap yap yap yap yap yap yap. i remember you was conflicted ahhhhhhhhhhhhhh",
     image: "/images/Kevin.JPG"
   }
 ];
