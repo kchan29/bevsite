@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect } from "react";
-import Head from "next/head";
 
 export default function ClientBody({
   children,
@@ -16,10 +15,6 @@ export default function ClientBody({
 
   return (
     <body className="antialiased" suppressHydrationWarning>
-      <Head>
-        <title>Happy Birthday! 🎂 | Celebration Website</title>
-        <meta name="theme-color" content="#a855f7" />
-      </Head>
       {children}
     </body>
   );
