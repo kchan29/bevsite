@@ -52,7 +52,25 @@ i love you!!!! give circe a treat for me (or don't if she's getting too pear sha
   },
   {
     name: "Karen",
-    content: `I'm Karen and I do Karen things!!!!!!!!`,
+    content: `BIANCA!
+
+I’m gonna start this off with a (very late) happy birthday—happy 20th! I hope this year brings you everything you’re hoping for and more.
+
+I feel like I don’t say this enough, but you’re genuinely one of the people I look up to the most. I hope someday I can be as good as you at putting thoughts into words, but for now, this will have to do LOL. I could say we go way back and talk about high school to now progression, but I feel like our friendship became something different once college started. Maybe it’s just that we’ve had more chances to talk and spend time together, but I also feel like I’ve gotten to know you in a different way and I cherish our friendship now more than ever :3
+
+Every conversation we have makes me thinking about something new. You just know so much about so many random, interesting things, and you always have something insightful to say. Please don’t ever stop yapping. 
+
+You’re honestly one of the most intelligent people I know, and that says a lot, because I know a lot of people. But what makes you stand out to me isn’t just how smart you are (but like highest score in 150A is lowkey very insane), it’s the way you pair it with your level of discipline and work ethic. You do so much, and yet you complain so little. I’m like.. world’s biggest complainer (as you know) so it blows my mind how you’re manage to balance everything while still staying grounded and thoughtful. You’re one of the very rare people who actually does what they say they will and you do it well, without needing to make a show of it.
+
+You care so much about the people around you, and I don’t think we tell you that enough, and I don’t think you realize how important you are :> You remember the little things about people, you stand up for the people you care about, even when it’s hard, and you’re always so intentional with the way you support others.
+
+This is starting to sound like a love letter and it’s grossing me out so im going to stop here but I love that you’re really true to yourself. You don’t pretend to have everything figured out (even though you probably do more than most of us lol), but you think through things so carefully. You always manage to find the most rational, grounded path forward, even when you're extremely stressed, unsure, or even straight up just crashing out. And you never let go of your values or your sense of what’s right. You’re a genuinely good person, and I hope you know how rare and admirable that is :D I’m very happy and proud that I’m able to call you one of my closest friends.
+
+To years more of Korean food, “Karen I am ____” text messages, and being nosy yappers!!
+
+Love you,
+Karennnnn
+`,
     image: "/images/Karen.JPG"
   },
   {
